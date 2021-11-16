@@ -1,7 +1,5 @@
 package com.uzair.databasehelper;
 
-import android.annotation.SuppressLint;
-import android.content.ClipData;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
@@ -10,7 +8,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import androidx.annotation.Nullable;
 
-import com.uzair.Contracts;
+import com.uzair.utils.Contracts;
 import com.uzair.model.Items;
 import com.uzair.model.Product;
 

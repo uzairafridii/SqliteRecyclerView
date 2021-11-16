@@ -1,4 +1,4 @@
-package com.uzair;
+package com.uzair.utils;
 
 public class Contracts {
 
