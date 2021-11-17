@@ -1,4 +1,4 @@
-package com.uzair.sqliterecyclerview;
+package com.uzair.activity;
 
 import android.content.Context;
 

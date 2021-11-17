@@ -11,7 +11,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.uzair.sqliterecyclerview.R;
+import com.uzair.activity.R;
 
 public class RecyclerSectionItemDecoration extends RecyclerView.ItemDecoration
 {

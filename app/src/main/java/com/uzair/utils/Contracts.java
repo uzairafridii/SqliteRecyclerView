@@ -8,13 +8,13 @@ public class Contracts {
         public static final String COL_COMPANY_ID = "company_id";
         public static final String COL_CATEGORY_ID = "category_id";
         public static final String COL_STATUS = "status";
-        public static final String COL_UID = "product_id";
+        public static final String COL_PRODUCT_UID = "product_id";
     }
 
     public static class Items {
         public static final String COL_TABLE_NAME = "items";
         public static final String COL_PRODUCT_ID = "product_id";
-        public static final String COL_UID = "item_id";
+        public static final String COL_ITEM_UID = "item_id";
         public static final String COL_SKU_CODE = "sku_code";
         public static final String COL_ITEM_NAME = "item_name";
         public static final String COL_IMAGE_URL = "image_url";

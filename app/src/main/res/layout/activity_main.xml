@@ -9,10 +9,10 @@
 
 
         <androidx.recyclerview.widget.RecyclerView
-            android:nestedScrollingEnabled="false"
+            android:id="@+id/recyclerView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:id="@+id/recyclerView"
-            />
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+             />
 
 </RelativeLayout>

@@ -1,4 +1,4 @@
-package com.uzair.sqliterecyclerview;
+package com.uzair.activity;
 
 import org.junit.Test;
 

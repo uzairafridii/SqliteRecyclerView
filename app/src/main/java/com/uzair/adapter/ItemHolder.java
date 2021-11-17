@@ -8,7 +8,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.uzair.sqliterecyclerview.R;
+import com.uzair.activity.R;
 
 public class ItemHolder extends RecyclerView.ViewHolder {
     public TextView itemName, itemSqCode, availableStock, totalPcs;
